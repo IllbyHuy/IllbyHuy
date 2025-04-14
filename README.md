@@ -34,11 +34,6 @@ Here are some ideas to get you started:
         </a>
       </td>
       <td align="center" width="25%">
-        <a href="https://github.com/IllbyHuy/IllbyHuy">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=IllbyHuy&repo=IllbyHuy&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="25%">
         <a href="https://github.com/dofu18/Child_Growth_Tracking_System_Backend">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=dofu18&repo=Child_Growth_Tracking_System_Backend&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
         </a>
@@ -48,16 +43,6 @@ Here are some ideas to get you started:
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=tykyfatkie&repo=Spring2025SWP391_SE1842_Group4_FE&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
         </a>
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="25%">
-        <a href="https://github.com/Vthanhf/FeKoiFarmShop">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vthanhf&repo=FeKoiFarmShop&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="25%"></td>
-      <td align="center" width="25%"></td>
-      <td align="center" width="25%"></td>
     </tr>
   </table>
 </div>
