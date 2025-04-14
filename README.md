@@ -15,6 +15,11 @@ Here are some ideas to get you started:
   - <a href="https://www.instagram.com/huy_cra2503/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="20"></a> [@huy_cra2503](https://www.instagram.com/huy_cra2503/)
 - ⚡ Fun fact: I like playing badminton, video games, art, and I'm a fan of Roseanne Park. I'm passionate about UI/UX design and front-end development.
 
+## 🎯 Current Goals
+- Master React and front-end development skills
+- Develop at least 2 game projects using Unity
+- Enhance UI/UX design skills
+
 ## 👁️ Profile Views
 ![](https://komarev.com/ghpvc/?username=IllbyHuy&color=green)
 
