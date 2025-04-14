@@ -25,18 +25,25 @@ Here are some ideas to get you started:
 
 ## 🚀 Featured Projects
 
-<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+<div>
+  <a href="https://github.com/IllbyHuy/DolphineBook" style="float: left; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=IllbyHuy&repo=DolphineBook&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
+  </a>
 
-[![DolphineBook](https://github-readme-stats.vercel.app/api/pin/?username=IllbyHuy&repo=DolphineBook&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/IllbyHuy/DolphineBook)
+  <a href="https://github.com/dofu18/Child_Growth_Tracking_System_Backend" style="float: left; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dofu18&repo=Child_Growth_Tracking_System_Backend&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
+  </a>
 
-[![IllbyHuy](https://github-readme-stats.vercel.app/api/pin/?username=IllbyHuy&repo=IllbyHuy&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/IllbyHuy/IllbyHuy)
-
-[![Child Growth Tracking System](https://github-readme-stats.vercel.app/api/pin/?username=dofu18&repo=Child_Growth_Tracking_System_Backend&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/dofu18/Child_Growth_Tracking_System_Backend)
-
-[![SWP391 Group Project](https://github-readme-stats.vercel.app/api/pin/?username=tykyfatkie&repo=Spring2025SWP391_SE1842_Group4_FE&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/tykyfatkie/Spring2025SWP391_SE1842_Group4_FE)
-
-[![FeKoiFarmShop](https://github-readme-stats.vercel.app/api/pin/?username=Vthanhf&repo=FeKoiFarmShop&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Vthanhf/FeKoiFarmShop)
-
+  <br clear="all" />
+    
+  <a href="https://github.com/tykyfatkie/Spring2025SWP391_SE1842_Group4_FE" style="float: right; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tykyfatkie&repo=Spring2025SWP391_SE1842_Group4_FE&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
+  </a>
+  
+  <a href="https://github.com/Vthanhf/FeKoiFarmShop" style="float: left; width: 49%;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Vthanhf&repo=FeKoiFarmShop&theme=radical&border_color=FF428E&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF" width="100%" />
+  </a>
+  <br clear="all" />
 </div>
 
 ## 📊 GitHub Stats
