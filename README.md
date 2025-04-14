@@ -24,13 +24,27 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=IllbyHuy&color=green)
 
 ## 🚀 Featured Projects
-[![Spring2025SWP391](https://github-readme-stats.vercel.app/api/pin/?username=tykyfatkie&repo=Spring2025SWP391_SE1842_Group4_FE&theme=radical)](https://github.com/tykyfatkie/Spring2025SWP391_SE1842_Group4_FE)
+
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: center;">
+
+[![DolphineBook](https://github-readme-stats.vercel.app/api/pin/?username=IllbyHuy&repo=DolphineBook&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/IllbyHuy/DolphineBook)
+
+[![IllbyHuy](https://github-readme-stats.vercel.app/api/pin/?username=IllbyHuy&repo=IllbyHuy&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/IllbyHuy/IllbyHuy)
+
+[![Child Growth Tracking System](https://github-readme-stats.vercel.app/api/pin/?username=dofu18&repo=Child_Growth_Tracking_System_Backend&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/dofu18/Child_Growth_Tracking_System_Backend)
+
+[![SWP391 Group Project](https://github-readme-stats.vercel.app/api/pin/?username=tykyfatkie&repo=Spring2025SWP391_SE1842_Group4_FE&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/tykyfatkie/Spring2025SWP391_SE1842_Group4_FE)
+
+[![FeKoiFarmShop](https://github-readme-stats.vercel.app/api/pin/?username=Vthanhf&repo=FeKoiFarmShop&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866&text_color=FFFFFF)](https://github.com/Vthanhf/FeKoiFarmShop)
+
+</div>
 
 ## 📊 GitHub Stats
 [![IllbyHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=IllbyHuy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IllbyHuy&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,scss&custom_title=My%20Programming%20Languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IllbyHuy&layout=compact&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=FFFFFF&langs_count=10&custom_title=My%20Programming%20Languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IllbyHuy&theme=radical)](https://git.io/streak-stats)
 
