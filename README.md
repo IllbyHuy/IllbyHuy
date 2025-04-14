@@ -44,11 +44,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Framework-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=61dafb)
 
 ### 🔧 Tools & Technologies
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=f05032)
+!![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=figma&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/Tools-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=f05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=f05032)
-
 <!-- Tech stack icons -->
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
