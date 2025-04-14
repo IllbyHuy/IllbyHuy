@@ -30,8 +30,7 @@ Here are some ideas to get you started:
 [![IllbyHuy's GitHub stats](https://github-readme-stats.vercel.app/api?username=IllbyHuy&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💻 Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IllbyHuy&layout=compact&theme=radical&hide_border=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IllbyHuy&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,scss&custom_title=My%20Programming%20Languages&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=IllbyHuy&theme=radical)](https://git.io/streak-stats)
 
